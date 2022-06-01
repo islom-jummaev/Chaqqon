@@ -1,0 +1,1 @@
+document.getElementById('ret').COMMENT_NODE
